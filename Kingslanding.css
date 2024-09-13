@@ -1,0 +1,70 @@
+body{
+    background-color: #615644;
+    font-family: "MedievalSharp", cursive;
+    margin: 0;
+    color: white;
+    text-align: center;
+    text-shadow: 0 0 2px black;
+}
+.B1{
+    background-image: url("Bimg.jpeg");
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#T1{
+    margin: 0;
+}
+#T1, #T2{
+    background: darkgoldenrod;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+.DI{
+    height: 100px;
+    width: 100px;
+    border: 5px solid wheat;
+    border-radius: 50%;
+}
+.FLX{
+    display: flex;
+}
+.inimage{
+    text-align: center;
+    margin: 15px;
+}
+#TT{
+    margin: 20px auto;
+}
+.B3{
+    background-color: darkgoldenrod;
+    display: flex;
+    justify-content: center;
+}
+#PI{
+    height: 150px;
+    width: 150px;
+    border: 5px solid wheat;
+    border-radius: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.FLX2{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    width: 400px;
+    background-color:#615644;
+    padding: 10px 20px;
+    margin: 20px 0 20px 0;
+    border-bottom: 20px solid wheat;
+    border-radius: 25px;
+}
+.ATG{
+    padding: 10px;
+    margin-left: 10px;
+}
+
